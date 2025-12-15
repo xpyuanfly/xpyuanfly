@@ -249,7 +249,7 @@
   - Yuan, X., Mao, X*, Xia, W, Zhang, Z, Xie, S, Zhang, C.  
     *PTF-SimCM: A Simple Contrastive Model with Polysemous Text Fusion for Visual Similarity Metric.*, 2022.  
 
-- 以及 QRS-C、Information (Switzerland)、Journal of Computers (Taiwan)、Journal of Computational Information Systems、《通信学报》《计算机研究与发展》《计算机科学》等期刊论文多篇。
+- 以及《计算机学院》《电子学报》《通信学报》《计算机研究与发展》《计算机科学》等期刊论文多篇。
 
 ---
 
