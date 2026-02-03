@@ -93,7 +93,13 @@
 - 湖南省自然科学基金医卫联合项目，No. 2024JJ9550  
   *语义指导的鼻内镜腺样体肥大诊断报告生成*，2024.01–2026.12，5 万元，作为参与单位主持  
 - 湖南省自然科学基金医卫联合项目，No. 2025JJ81178  
-  *视觉关系检测驱动的内窥镜下腺样体分割分级研究*，2025.01–2027.12，5 万元，作为参与单位主持  
+  *视觉关系检测驱动的内窥镜下腺样体分割分级研究*，2025.01–2027.12，5 万元，作为参与单位主持
+- 湖南省自然科学基金医卫联合项目，2026JJ81383
+  *基于智能辅助的膀胱镜术后患者个体化护理路径生成与实践研究*，2026.1-2028.12，5万元，作为参与单位主持
+- 湖南省自然科学基金医卫联合项目，2026JJ81941
+  *鼻内镜分泌物属性建模与鼻腔慢性疾病分型研究*，2026.1-2028.12，5万元，作为参与单位主持
+- 湖南省卫健委科技项目，20254688
+  *面向结构识别与语义生成的鼻内镜智能诊断大模型*，2026.1-2028.12，5万元，作为参与单位主持
 - 湖南省自然科学基金面上项目，No. 2022JJ30231  
   *文本融合的无监督图像相似性度量学习研究*，2022.01–2024.12，5 万元，已结题，主持  
 - 湖南省自然科学基金面上项目，No. 2018JJ2099  
@@ -193,10 +199,19 @@
 > Semantic Scholar：<https://www.semanticscholar.org/author/Xinpan-Yuan/20393903>  
 
 ### 国际会议与期刊（近年）
+
 - **AAAI 2026（CCF A）**  
   - Xinpan Yuan†, Shaomin Xie†, Liujie Hua*, Chengyuan Zhang*, Guihu Zhao, Lin Yuanbo Wu*.  
     *Geometry-Aware Noisy Correspondence Mitigation for Cross-Modal Text-Based Person Retrieval.*
   - Paper Type: Oral
+  
+- ### DASFAA 2026（CCF B）
+-**Xinpan Yuan**, Wenguang Gan, Chengyuan Zhang. Syntax-Aware Dependency Parsing for Dual-Origin Noisy Correspondence in Text-Based Person Search.
+-**Xinpan Yuan**, Jianuo Ju, Liujie Hua, Changhong Zhang.Set-to-One Structured Captioning for Heterogeneous Nasal Image Collections via Spatio-Temporal Modeling and Clinical Knowledge Integration.
+
+- ### ICASSP 2026（CCF B）
+-Pinjie He, Jue Wang, **Xinpan Yuan***.SDORG: Structurally Deconstructed Framework for Otoscopic Report Generation with Region-Aware Multimodal Alignment.
+-Shaomin Xie, **Xinpan Yuan***, Wenguang Gan, Jiawei He, Liujie Hua†.CCMA: Consistency-Aware Cross-Modal Alignment for Text-Based Person Retrieval.
 
 - **BIBM 2026（CCF B）**  
   - 夏性权†，赵贵虎†，李津臣，袁鑫攀*. HCSeer2: A Deep Learning-Based Multi-Scale Modeling Framework for Predicting Cold and Hot Spots of Variants in the Human Exome, Regular Paper
