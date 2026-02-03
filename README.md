@@ -206,12 +206,12 @@
   - Paper Type: Oral
   
 - ### DASFAA 2026（CCF B）
--**Xinpan Yuan**, Wenguang Gan, Chengyuan Zhang. Syntax-Aware Dependency Parsing for Dual-Origin Noisy Correspondence in Text-Based Person Search.
--**Xinpan Yuan**, Jianuo Ju, Liujie Hua, Changhong Zhang.Set-to-One Structured Captioning for Heterogeneous Nasal Image Collections via Spatio-Temporal Modeling and Clinical Knowledge Integration.
+  - **Xinpan Yuan**, Wenguang Gan, Chengyuan Zhang. Syntax-Aware Dependency Parsing for Dual-Origin Noisy Correspondence in Text-Based Person Search.
+  - **Xinpan Yuan**, Jianuo Ju, Liujie Hua, Changhong Zhang.Set-to-One Structured Captioning for Heterogeneous Nasal Image Collections via Spatio-Temporal Modeling and Clinical Knowledge Integration.
 
 - ### ICASSP 2026（CCF B）
--Pinjie He, Jue Wang, **Xinpan Yuan***.SDORG: Structurally Deconstructed Framework for Otoscopic Report Generation with Region-Aware Multimodal Alignment.
--Shaomin Xie, **Xinpan Yuan***, Wenguang Gan, Jiawei He, Liujie Hua†.CCMA: Consistency-Aware Cross-Modal Alignment for Text-Based Person Retrieval.
+  - Pinjie He, Jue Wang, **Xinpan Yuan***.SDORG: Structurally Deconstructed Framework for Otoscopic Report Generation with Region-Aware Multimodal Alignment.
+  - Shaomin Xie, **Xinpan Yuan***, Wenguang Gan, Jiawei He, Liujie Hua†.CCMA: Consistency-Aware Cross-Modal Alignment for Text-Based Person Retrieval.
 
 - **BIBM 2026（CCF B）**  
   - 夏性权†，赵贵虎†，李津臣，袁鑫攀*. HCSeer2: A Deep Learning-Based Multi-Scale Modeling Framework for Predicting Cold and Hot Spots of Variants in the Human Exome, Regular Paper
