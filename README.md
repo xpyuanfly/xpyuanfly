@@ -205,11 +205,11 @@
     *Geometry-Aware Noisy Correspondence Mitigation for Cross-Modal Text-Based Person Retrieval.*
   - Paper Type: Oral
   
-- ### DASFAA 2026（CCF B）
+- **DASFAA 2026（CCF B）**
   - **Xinpan Yuan**, Wenguang Gan, Chengyuan Zhang. Syntax-Aware Dependency Parsing for Dual-Origin Noisy Correspondence in Text-Based Person Search.
   - **Xinpan Yuan**, Jianuo Ju, Liujie Hua, Changhong Zhang.Set-to-One Structured Captioning for Heterogeneous Nasal Image Collections via Spatio-Temporal Modeling and Clinical Knowledge Integration.
 
-- ### ICASSP 2026（CCF B）
+- **ICASSP 2026（CCF B）**
   - Pinjie He, Jue Wang, **Xinpan Yuan***.SDORG: Structurally Deconstructed Framework for Otoscopic Report Generation with Region-Aware Multimodal Alignment.
   - Shaomin Xie, **Xinpan Yuan***, Wenguang Gan, Jiawei He, Liujie Hua†.CCMA: Consistency-Aware Cross-Modal Alignment for Text-Based Person Retrieval.
 
